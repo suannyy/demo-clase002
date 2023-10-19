@@ -1,0 +1,6 @@
+git clone
+git add
+git commit
+git puah
+git status
+hit pull
